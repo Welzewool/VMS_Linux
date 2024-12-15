@@ -1,3 +1,9 @@
 /.venv/
 /.idea/vcs.xml
 /.idea/.gitignore
+/install_vms.sh
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/VMS_linux.iml
